@@ -1,0 +1,8 @@
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Logic\bin\Debug\Spent.Logic.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Logic\bin\Debug\Spent.Logic.pdb
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Logic\bin\Debug\Spent.Data.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Logic\bin\Debug\Spent.Data.pdb
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Logic\obj\Debug\Spent.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Logic\obj\Debug\Spent.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Logic\obj\Debug\Spent.Logic.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Logic\obj\Debug\Spent.Logic.pdb
