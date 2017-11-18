@@ -13,6 +13,8 @@ C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Microsoft.Ap
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Newtonsoft.Json.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Spent.Data.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Spent.Logic.dll
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\System.Web.Helpers.dll
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\System.Web.Mvc.dll
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\System.Web.Optimization.dll
@@ -21,6 +23,10 @@ C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\System.Web.W
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\System.Web.WebPages.dll
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\System.Web.WebPages.Razor.dll
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\WebGrease.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Spent.Data.pdb
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Spent.Data.dll.config
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Spent.Logic.pdb
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Spent.Logic.dll.config
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\System.Web.Helpers.xml
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Web\bin\System.Web.Mvc.xml

@@ -1,17 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace Spent.Logic
 {
     public interface ISpentRepository<T>
     {
-        List<T> GetAll();
-        void AddItem(T item);
-        T UpdateItem(Guid id);
-        void DeleteItem(Guid id);
+        IQueryable<T> Queryable();
+        T AddItem(T item);
+        //T GetItem(Guid id);
+        //void UpdateItem(Guid id);
+        T DeleteItem(T item);
         void SubmitChanges();
     }
 }
