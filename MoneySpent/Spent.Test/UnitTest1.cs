@@ -9,7 +9,7 @@ namespace Spent.Test
     [TestClass]
     public class UnitTest1
     {
-        CommonRepository<UserEntity> repository = new CommonRepository<UserEntity>();
+        ISpentRepository<UserEntity> repository = new CommonRepository<UserEntity>();
         private void SaveChangesRepo()
         {
             repository.SubmitChanges();

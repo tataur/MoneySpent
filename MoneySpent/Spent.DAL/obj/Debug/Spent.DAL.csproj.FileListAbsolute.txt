@@ -1,0 +1,10 @@
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.DAL\bin\Debug\Spent.DAL.dll.config
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.DAL\bin\Debug\Spent.DAL.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.DAL\bin\Debug\Spent.DAL.pdb
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.DAL\obj\Debug\Spent.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.DAL\obj\Debug\Spent.DAL.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.DAL\obj\Debug\Spent.DAL.pdb

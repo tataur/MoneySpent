@@ -12,6 +12,7 @@ namespace Spent.Web
     {
         protected void Application_Start()
         {
+            App_Start.AutoMapperConfig.Initialize();
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);

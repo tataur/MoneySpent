@@ -17,3 +17,5 @@ C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Test\obj\Debug\Spent
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Test\obj\Debug\Spent.Test.csproj.CoreCompileInputs.cache
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Test\obj\Debug\Spent.Test.dll
 C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Test\obj\Debug\Spent.Test.pdb
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Test\bin\Debug\EntityFramework.dll
+C:\Users\Sveta\Documents\GitHub\MoneySpent\MoneySpent\Spent.Test\bin\Debug\EntityFramework.xml
