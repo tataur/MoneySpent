@@ -51,11 +51,42 @@ namespace Spent.Web.Controllers
             return View(model);
         }
 
-        public JsonResult AddCost(decimal cost, DateTime date, int type)
+        [HttpGet]
+        public ActionResult Edit(int id)
         {
+            var entity = repository.Find(id);
+            var model = Mapper.Map<MoneyEntity, MoneyModel>(entity);
+
+            return View(model);
+        }
+
+        [HttpPost]
+        public ActionResult Edit(MoneyModel model)
+        {
+            var entity = Mapper.Map<MoneyModel, MoneyEntity>(model);
+            repository.Update(entity);
+            repository.Save();
+            return RedirectToAction("Index");
+        }
+
+        public JsonResult AddCost(int id, decimal cost, DateTime date, int type)
+        {
+            logger.Info(id);
             logger.Info(cost);
             logger.Info(date);
             logger.Info(type);
+
+            var typeModel = repository.GetTypes().FirstOrDefault(t => t.TypeId == type);
+
+            var entity = new MoneyEntity
+            {
+                Id = id,
+                Cost = cost,
+                CostDate = date,
+                CostType = typeModel
+            };
+            repository.Create(entity);
+            repository.Save();
 
             return Json(new { });
         }

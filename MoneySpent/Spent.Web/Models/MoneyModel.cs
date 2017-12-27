@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 using System.Web.Mvc;
 
 namespace Spent.Web.Models
@@ -14,10 +14,9 @@ namespace Spent.Web.Models
     public class MoneyModel
     {
         public int Id { get; set; }
-        //public int CostNum { get; set; }
-
-        //[ForeignKey("FK_CostType")]
         public virtual TypeModel CostType { get; set; }
+
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         public DateTime CostDate { get; set; }
         public decimal Cost { get; set; }
     }
